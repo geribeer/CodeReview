@@ -9,7 +9,7 @@ public class Main {
 		printHello();
 	}
 	
-	public static void printHello() {
+	private static void printHello() {
 		System.out.println("Hallo Codereview");
 	}
 }
